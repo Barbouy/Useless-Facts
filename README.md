@@ -1,11 +1,13 @@
-# STATIC
+# USELESS FACTS : https://barbouy.github.io/Useless-Facts/
 
-**This directory is not required, you can delete it if you don't want to use it.**
+Hello everyone,
 
-This directory contains your static files.
-Each file inside this directory is mapped to `/`.
-Thus you'd want to delete this README.md before deploying to production.
+My name is **Pierre-Alexandre**, I'm an engineering student that is obsessed by learning web languages. This website isn't my idea, it's an idea from a french video who permit me to learn the base of Nuxt (VueJS framework).
 
-Example: `/static/robots.txt` is mapped as `/robots.txt`.
+I hope you'll like it and if u have any question, ask me and I'll answer with pleasure.
 
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/guide/assets#static).
+See you.
+
+**Credits** : 
+*The french youtube video* :  https://www.youtube.com/watch?v=sS2v3eFdkmM&
+*The API* : https://uselessfacts.jsph.pl/
