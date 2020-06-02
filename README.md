@@ -8,6 +8,9 @@ I hope you'll like it and if u have any question, ask me and I'll answer with pl
 
 See you.
 
+
 **Credits** : 
+
 *The french youtube video* :  https://www.youtube.com/watch?v=sS2v3eFdkmM&
+
 *The API* : https://uselessfacts.jsph.pl/
